@@ -9,7 +9,7 @@ library(stringr)
 data <- data.frame(
   ID = c(1, 2, 3, 4, 5, 6),
   Name = c("John Doe", "Jane Smith", "John Doe", "Alice Johnson", "Bob Brown", "Alice Johnson"),
-  Email = c("john@example.com", "jane@example.com", "john@example.com", "alice@example.com", "bob@example.com", "alice@example.com"),
+  Email = c("john@example.com", "jane@example.com", "john@example.com", "alice@example.com", "bob@example.com", "alice@example.com"), 
   Age = c(25, 30, 25, 28, 35, 28),
   Comments = c("Great service!", "Good experience.", "Great service!", "Needs improvement.", "  Too expensive!  ", "Needs improvement.")
 )
